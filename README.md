@@ -1,2 +1,4 @@
-# CSS-Odev-1
-![motogalerim](https://user-images.githubusercontent.com/95178772/153490137-669f36f0-3a5a-4289-b856-e9499a76c1a7.PNG)
+# CSS
+External CSS kullanılarak basitçe oluşturulan bir site.
+
+![webgif](https://user-images.githubusercontent.com/95178772/158217683-9e3b4469-48ba-49ae-90d8-1bf839e7eecc.gif)
